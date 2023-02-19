@@ -1,0 +1,19 @@
+History of javascript 
+
+1. 1991: Birth of HTTP and HTML
+2. 1995: Birth of Javascript by Brendan Eich
+3. 1997: Dynamic HTML
+4. 1999: XML HTTPRequest
+5. 2001: JSON
+6. 2005: Ajax(Google Maps)
+7. 2006: Jquery
+8. 2008: V8
+9. 2009: NodeJS
+10. 2012: HTML5 and CSS3
+11. 2010 - 2014: Angular JS (2010), React(2013), Vue(2014)
+12. ECMAScript 2015: let, const, arrow, promise etc (ES6)
+13. ECMAScript 2017: Object values, async-await etc 
+14. ECMAScript 2019: Array's flat, flatMap, sort etc.
+15. ECMAScript 2020: nullish coalescing operator (??) etc
+16. ECMAScript 2021: replaceAll etc.
+17. ECMAScript 2022: (proposed): top level async etc.

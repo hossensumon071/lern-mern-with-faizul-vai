@@ -1,0 +1,28 @@
+Javascript Object Notation: JSON
+     1. why did we need it?
+          - 2000 shaler dike actually world wide server ovrall ekta dominate choraitechilo and onk rokom server create hocchilo , 
+          
+          - ekon bibibnno rokom server create howar karone bibinno rokomer server side language create hocchilo server er shate client er communication toiri hocchilo 
+
+          - ei server client er communication er ei data gula kibave transmite korbe  ei gular history porte giye dekchi mr ws cockword and onar ekjon team mate ke niye ekta portotype banaichen sei ta hocche ki JSON
+
+          - ei JSON ta ashole hocche ekta string but string er bitore data ta amra kibave liki sei ta hocche kihubi intresting 
+
+          - main bepar hocche string leteral ke amra jodi JS er Object er moto represt korte chai thats its called JSON
+
+    2. What is JSON, JSON JSON
+       
+          - er bitor ekta JSON hocche ekta class jei ta amader JS er je engine sei engine ei class tar spacificationa and implementation kora ache 
+
+          - r ekta JSON hocche javascript object notation 
+
+    3. Syntax
+         . '{"key":"value"}'
+         . value can be any valid javascript data types 
+    
+    4. Having functions 
+    5. JSON functions 
+          . Parse
+          . Stringify
+
+    json string ke convert korle javascript object hoye jai 

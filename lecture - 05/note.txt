@@ -1,0 +1,24 @@
+JavaScript Data Types
+    .varibale 
+        - jokon amra variable e ekta value assign kori tokon ki hoi 
+
+        - first e doren amader je ram ba memory onk GB memory ache so ekan theke jokon n = 100 dicchi tokon ei programme tader nijer jonno OS theke memory allocat kore erpor sei momory er modde 100 word ta rake  
+
+        - ekon ei 100 rakar shate shate solve hoye jai na shob kichu se ei 100 ta ke access korar jonno se ekta alias create kore and sei alias er name dei se n, r physical address obossoi ache ekta memory er jonno so sei ta tar memory te reke dei tar nijesso register sekhane reke dei 
+
+        - jokon amra ask kori give me the value of n , so directly alise e jai na deke se n refrence ta kothai chilo n refrence ta chilo physical memory address x123 ekahane theke value 100 ta ke ferot dei 
+
+
+        - ei kaj theke ekta concept ashe sei ta holo (Mutable vs Immutable )
+
+        -  jodi amra ei physical refrence er value amra change korte pari tahole ei value ta ke bola hobe mutable data types r value change na korte parle ei ta ke bola immutable data types 
+
+
+  Scoping
+     . using var 
+     . using let 
+     . using const
+
+  Data Types 
+      . Primitive 
+      . Object

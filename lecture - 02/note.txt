@@ -1,0 +1,35 @@
+programming language kibave kaj kore?
+    
+
+    amra kichu code likchi jeigula amra chai run korok 
+
+    jokon code run korar kotha ashe tokon amra ki bhuji amra bhuji amader code  gula jeno CPU memory harddisk etc te amader code gula jeno execute hoi 
+
+    ekon code gula je execution hobe and ei kibave execution hobe 
+
+    ei execution er jonno amader dorkar ekta opareting system , amra code ke operating system ke dei and sei operating system tar shate lagano jei hardware gula ache hardware modde ach CPU, MEMORY eigula ke resource allocate kore amader code er jonno
+
+    OS(opareting system) kaj hocche mainly resource allocate kora 
+
+    amader code OS kibave bhujbe, OS only jane 10101010 binary number eigula bhuje whiche means machine code 
+
+    amadr code machine code e rupantor hote hole base kichu phase par hote hoi r ei phase gula mainly handl kore hocche engine
+
+    so er theke amra bhujte parlam je prottekta langugage er i ekta ekta nijessho engine ache ja code gula ke machine code rupantor kore 
+
+    engine ki kore amader code ta ke se nei and se aita ke bytecode convert kore 
+
+    bytecode hocche machine code r amader code er middle ekta layer but shomosto programming langugae abar ei kaj ta kore na onk programming language er bytecode converte hote lage na 
+
+    bytecode e convert howaer por code machine code convert hoi 
+
+    so amader code gula ke jodi amra run krate chai tahole oitar jonno spacific engine amader ke install korte hobe otherwise amader code gula run korbe na 
+
+
+    amader code gula ke engine se kibave aita ke parse korbe , tar jonno amader dorkar sytex parsing mechanism r ei syntex parse abr doi bhave hote pare 
+           1. Compiler 
+                - mane se full code ta ke ekbare run korar try kore that means se full code ekbare se parse kore compile korar try kore 
+           2. Interpreter
+                - mane se full code ke ekbare compile korar try kore na , jokon amra cde ta run kori tokon se code ta ke execute korar try kore thats called Interpreter, JS start hoichilo Interpreter language hisebe and for the advncement ait actually mixed type hoye geche python ekono Interpreter language hisebe e ache 
+
+    prottekta engine er modde kichu built in library ache 
